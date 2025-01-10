@@ -3,6 +3,21 @@
 A new Flutter project.
 
 ## Getting Started
+<div align="center">
+    <div>
+        <img src="https://github.com/inder-7/Movieverse-movie-app/blob/master/screeshots/3486.jpg?raw=true" alt="Screenshot 1" style="width: 45%;">
+        <img src="https://github.com/inder-7/Movieverse-movie-app/blob/master/screeshots/3487.jpg?raw=true" alt="Screenshot 2" style="width: 45%;">
+    </div>
+    <div>
+        <img src="https://github.com/inder-7/Movieverse-movie-app/blob/master/screeshots/3488.jpg?raw=true" alt="Screenshot 3" style="width: 45%;">
+        <img src="https://github.com/inder-7/Movieverse-movie-app/blob/master/screeshots/3489.jpg?raw=true" alt="Screenshot 4" style="width: 45%;">
+    </div>
+    <div>
+        <img src="https://github.com/inder-7/Movieverse-movie-app/blob/master/screeshots/3490.jpg?raw=true" alt="Screenshot 5" style="width: 45%;">
+    </div>
+</div>
+
+
 
 This project is a starting point for a Flutter application.
 
